@@ -1,4 +1,4 @@
-# 🧪 test_booking
+# 🧪 Test Booking
 
 Автоматизированные тесты для API [Restful Booker](https://restful-booker.herokuapp.com/) на Python с использованием `pytest` и `requests`.
 
